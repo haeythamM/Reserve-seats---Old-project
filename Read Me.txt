@@ -1,0 +1,31 @@
+Auther: Haeytham Almalak
+Date: 4/4/2019
+
+
+About the application
+/*          Programmer Block
+
+Programmer: Haeytham AlMalak
+Date: April 3, 2019
+Discriprion:  The Econo-Airlines fleet consists of one plane with a seating
+              capacity of 12.
+			  It makes one flight daily.
+              The aircraft seating is arranged in 6 rows with 2 seats per row.
+              The program uses an array of 12 structures.
+              Each structure holds a seat identification number,
+              a marker that indicates whether the seat is assigned,
+              the last name of the seat holder, and the first name of the seat holder.
+              The program displays the following menu:
+              To choose a function, enter its letter label:
+
+                      a. Display ALL seat assignments (including Empty).
+                      b. Show ONLY a list of empty seats and show total of empty seats
+                      c. SHOW ONLY the assigned seats with name of person and total assigned.
+                      d. Assign the customer to an empty seat.
+                      e. Delete ONE seat assignment.
+                      f. Delete ALL seat assignments.
+                      q. Quit program.
+
+					  NOT: The selection must NOT be case sensitive.
+             ==========--------____________--------==========
+Verson:1.0
